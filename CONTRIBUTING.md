@@ -1,6 +1,6 @@
-# Contributing to Bootstrap
+# Contributing to Gaboogle! Bootstrap
 
-Looking to contribute something to Bootstrap? **Here's how you can help.**
+Looking to contribute something to Gaboogle! Bootstrap? **Here's how you can help.**
 
 
 
@@ -20,12 +20,6 @@ We only accept issues that are bug reports or feature requests. Bugs must be iso
 - `master` is the latest, deployed version.
 - `gh-pages` is the hosted docs (not to be used for pull requests).
 - `*-wip` is the official work in progress branch for the next release.
-
-
-
-## Notes on the repo
-
-As of v2.0.0, Bootstrap's documentation is powered by Mustache templates and built via `make` before each commit and release. This was done to enable internationalization (translation) in a future release by uploading our strings to the [Twitter Translation Center](http://translate.twttr.com/). Any edits to the docs should be first done in the Mustache files and then recompiled into the HTML.
 
 
 
