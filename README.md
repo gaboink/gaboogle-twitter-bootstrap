@@ -1,78 +1,23 @@
-[Twitter Bootstrap](http://twitter.github.com/bootstrap) [![Build Status](https://secure.travis-ci.org/twitter/bootstrap.png)](http://travis-ci.org/twitter/bootstrap)
+[Gaboogle! Twitter Bootstrap](https://github.com/gaboink/gaboogle-twitter-bootstrap)
 =================
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created and maintained by [Mark Otto](http://twitter.com/mdo) and [Jacob Thornton](http://twitter.com/fat).
+Gaboogle! Bootstrap is an extended clone of the sleek, intuitive, and powerful Twitter Boostrap front-end framework created to allow faster and easier web development.  Gaboogle! Bootstrap is created and maintained by [George Freeney-Jones](http://gaboink.com).
 
-To get started, checkout http://getbootstrap.com!
+
+
+Extended Features
+-----------
+
+Videojs HTML5 Video Player Plugin - http://videojs.com/
+
+To get started, clone https://github.com/gaboink/gaboogle-twitter-bootstrap!
 
 
 
 Quick start
 -----------
 
-Clone the repo, `git clone git://github.com/twitter/bootstrap.git`, [download the latest release](https://github.com/twitter/bootstrap/zipball/master), or install with twitter's [Bower](http://twitter.github.com/bower): `bower install bootstrap`.
-
-
-
-Versioning
-----------
-
-For transparency and insight into our release cycle, and for striving to maintain backward compatibility, Bootstrap will be maintained under the Semantic Versioning guidelines as much as possible.
-
-Releases will be numbered with the following format:
-
-`<major>.<minor>.<patch>`
-
-And constructed with the following guidelines:
-
-* Breaking backward compatibility bumps the major (and resets the minor and patch)
-* New additions without breaking backward compatibility bumps the minor (and resets the patch)
-* Bug fixes and misc changes bumps the patch
-
-For more information on SemVer, please visit http://semver.org/.
-
-
-
-Bug tracker
------------
-
-Have a bug? Please create an issue here on GitHub that conforms with [necolas's guidelines](https://github.com/necolas/issue-guidelines).
-
-https://github.com/twitter/bootstrap/issues
-
-
-
-Twitter account
----------------
-
-Keep up to date on announcements and more by following Bootstrap on Twitter, [@TwBootstrap](http://twitter.com/TwBootstrap).
-
-
-
-Blog
-----
-
-Read more detailed announcements, discussions, and more on [The Official Twitter Bootstrap Blog](http://blog.getbootstrap.com).
-
-
-
-Mailing list
-------------
-
-Have a question? Ask on our mailing list!
-
-twitter-bootstrap@googlegroups.com
-
-http://groups.google.com/group/twitter-bootstrap
-
-
-
-IRC
----
-
-Server: irc.freenode.net
-
-Channel: ##twitter-bootstrap (the double ## is not a typo)
+Clone the repo, `git clone git://github.com/gaboink/gaboogle-twitter-bootstrap.git`, [download the latest release](https://github.com/gaboink/gaboogle-twitter-bootstrap/zipball/master)
 
 
 
@@ -109,15 +54,10 @@ Please submit all pull requests against *-wip branches. If your unit test contai
 Authors
 -------
 
-**Mark Otto**
+**George Freeney-Jones**
 
-+ http://twitter.com/mdo
-+ http://github.com/markdotto
-
-**Jacob Thornton**
-
-+ http://twitter.com/fat
-+ http://github.com/fat
++ http://gaboink.com
++ http://github.com/gaboink
 
 
 
