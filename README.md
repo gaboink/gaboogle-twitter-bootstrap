@@ -1,4 +1,4 @@
-[Gaboogle! Twitter Bootstrap](https://github.com/gaboink/gaboogle-twitter-bootstrap)
+[Gaboogle! Bootstrap](https://github.com/gaboink/gaboogle-twitter-bootstrap)
 =================
 
 Gaboogle! Bootstrap is an extended clone of the sleek, intuitive, and powerful Twitter Boostrap front-end framework created to allow faster and easier web development.  Gaboogle! Bootstrap is created and maintained by [George Freeney-Jones](http://gaboink.com).
